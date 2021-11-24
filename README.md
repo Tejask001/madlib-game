@@ -1,1 +1,2 @@
-Python madlibs game about political speech
+# MADLIB 
+Python madlibs game about political speech (using string formatting)
